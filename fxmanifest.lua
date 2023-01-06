@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Shorty#2167'
 description 'Car menu with ox_lib menu'
-version '1.0.0'
+version '1.0.1'
 lua54 'yes'
 
 client_scripts {
