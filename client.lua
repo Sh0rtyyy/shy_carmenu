@@ -77,7 +77,6 @@ end)
 ------------------------------------ DOORS ------------------------------------ 
 
 RegisterNetEvent('shy_carmenu:opendoorsmenu', function(data)
-    print(json.encode(data, {indent=true}))
     lib.registerContext({
         id = 'carmenu_doors',
         title = 'Job center',
